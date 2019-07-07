@@ -1,0 +1,10 @@
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\bin\Debug\Glome Keylogger.exe.config
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\bin\Debug\Glome Keylogger.exe
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\bin\Debug\Glome Keylogger.pdb
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\obj\Debug\Glome Keylogger.csprojResolveAssemblyReference.cache
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\obj\Debug\Glome_Keylogger.Form1.resources
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\obj\Debug\Glome_Keylogger.Properties.Resources.resources
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\obj\Debug\Glome Keylogger.csproj.GenerateResource.Cache
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\obj\Debug\Glome Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\obj\Debug\Glome Keylogger.exe
+C:\Users\macicjelit\source\repos\Glome Keylogger\Glome Keylogger\obj\Debug\Glome Keylogger.pdb
